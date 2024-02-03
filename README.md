@@ -1,4 +1,4 @@
-# Project Name
+# Snowboard instructor Notification
 
 Being a snowboard instructor at Beaver Creek, when our schedules are updated we were not given a notification via email. This script logs into the schedule site, checks working day and off days and then emails me my schedule. The script runs daily using an AWS Lambda function that runs on a Amazon EventBridge Scheduler.
 
